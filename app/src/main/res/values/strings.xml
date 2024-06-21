@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">GameList</string>
+    <string name="game_name">Nama Game</string>
+    <string name="description">Deskripsi</string>
+    <string name="detail">More Detail</string>
+    <string name="aboutme">About Me</string>
+    <string name="my_name">David Saputra</string>
+    <string name="my_email">3337210029@untirta.ac.id</string>
+    <string name="share">Share</string>
+    <string name="contact_me">Contact Person</string>
+    <string name="instagram">Instagram</string>
+    <string name="my_instagram">davidwae_</string>
+    <string name="linkedin">Linked In</string>
+    <string name="my_linkedin">https://www.linkedin.com/in/david-saputra-8904a5255/</string>
+
+    <string-array name="data_nama_game">
+        <item>Ark-Survival Evolved</item>
+        <item>Dota 2</item>
+        <item>Free Fire</item>
+        <item>Genshin Impact</item>
+        <item>Growtopia</item>
+        <item>Minecraft</item>
+        <item>Mobile Legend</item>
+        <item>PUBG Mobile</item>
+        <item>The Sims Freeplay</item>
+        <item>Valorant</item>
+    </string-array>
+
+    <string-array name="game_description">
+        <item>Game survival aksi penjelajahan yang dikembangkan oleh Studio Wildcard, bekerja sama dengan Instinct Games, Efecto Studios, dan Virtual Basement. Dalam permainan, pemain harus bertahan hidup terdampar di sebuah pulau yang dipenuhi dinosaurus yang berkeliaran dan hewan prasejarah lainnya, bahaya alam, dan pemain manusia yang berpotensi memusuhi.</item>
+        <item>Game online dengan genre MOBA yang diterbitkan oleh Valve pada tahun 2013. Game ini adalah sekuel lanjutan dari Defense of Ancients (DotA). Dota 2 bisa dimainkan secara gratis di PC dengan sistem operasi Microsoft Windows, Linux, atau OS X. Game ini juga bisa dimainkan secara gratis melalui Steam.</item>
+        <item>Game Battle Royale yang dikembangkan oleh 111 Dots Studio dan diterbitkan oleh garena untuk Android dan iOS. Game ini merupakan Game Mobile yang paling banyak diunduh secara global pada tahun 2019. Karena popularitasnya, permainan ini menerima penghargaan untuk "Best Popular Vote Game" oleh Google Play Store pada tahun 2019.</item>
+        <item>Genshin Impact adalah game open-world yang dikembangkan oleh pengembang asal China, miHoYo. Gim ini tersedia secara gratis dan menerapkan sistem gacha di dalamnya. Dalam gameplay-nya, Genshin Impact memiliki arena dunia fantasi terbuka. Game ini dirilis pada tanggal 28 September 2020 di Android, iOS, Windows, dan PlayStation 4, serta 28 April 2021 di platform PlayStation 5.</item>
+        <item>Growtopia adalah game dengan genre MMO yang dijalankan oleh server. Game ini awalnya dirilis untuk Android pada November 2012 dirilis untuk iOS, Android, Microsoft Windows, macOS, Nintendo Switch, PlayStation 4 dan Xbox One.Pada tanggal 28 Februari 2017, akuisisi Ubisoft dari Growtopia diumumkan dan selesai pada kuartal keempat 2016–17 Ubisoft, dengan pengembang asli menjadi desain dan penasehat umum untuk pengembangan game yang berlanjut.</item>
+        <item>Minecraft adalah sebuah game sandbox yang dikembangkan oleh pengembang game asal Swedia Mojang Studios. Permainan ini dibuat oleh Markus "Notch" Persson dalam bahasa pemrograman Java. Game ini pertama kali diterbitkan pada Mei 2009 sebelum sepenuhnya dirilis pada November 2011, kemudian Jens "Jeb" Bergensten mengambil alih pengembangan.</item>
+        <item>Game mobile ber-genre multiplayer online battle arena (MOBA) yang dikembangkan dan diterbitkan oleh Moonton, anak perusahaan dari ByteDance. Dirilis pada tahun 2016, game ini semakin populer di seluruh dunia, terutama di wilayah Asia Tenggara,</item>
+        <item>Game Bergenre battle royale gratis dimainkan yang dikembangkan oleh LightSpeed Quantum Studio, sebuah divisi dari Tencent Games. Ini merupakan adaptasi permainan piranti genggam dari PlayerUnknown\'s Battlegrounds yang dirilis untuk Android dan IOS pada 19 Maret 2018</item>
+        <item>Game simulasi kehidupan strategis yang dikembangkan oleh EA Mobile bersama Firemonkeys Studios . Ini adalah versi gratis dari The Sims untuk perangkat seluler. Dirilis untuk iOS pada 15 Desember 2011, dirilis untuk Android pada 15 Februari 2012, dirilis untuk BlackBerry 10 pada 31 Juli 2013, dan dirilis untuk Windows Phone 8 pada 12 September 2013</item>
+        <item>Gamev FPS (First Person Shooter) taktis multipemain gratis yang dikembangkan dan diterbitkan oleh Riot Games, untuk Microsoft Windows. Pertama kali menggoda dengan nama kode Project A pada Oktober 2019, permainan memulai periode beta tertutup dengan akses terbatas pada 7 April 2020, diikuti dengan perilisan resmi pada 2 Juni 2020. Pengembangan permainan dimulai pada 2014.</item>
+    </string-array>
+
+    <integer-array name="data_image">
+        <item>@drawable/ark_survival</item>
+        <item>@drawable/dota2</item>
+        <item>@drawable/free_fire</item>
+        <item>@drawable/genshin_impact</item>
+        <item>@drawable/growtopia</item>
+        <item>@drawable/minecraft</item>
+        <item>@drawable/mobile_legend</item>
+        <item>@drawable/pubg</item>
+        <item>@drawable/the_sims</item>
+        <item>@drawable/valorant</item>
+    </integer-array>
+</resources>
